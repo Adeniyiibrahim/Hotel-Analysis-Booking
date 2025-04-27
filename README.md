@@ -28,7 +28,7 @@ The dataset encompassing various aspects of hotel bookings, ranging from booking
 
 5. Ratio of total bookings to total cancellation?
 
-6.What is Cancellation rate?
+6. What is Cancellation rate?
 
 ![image](https://github.com/user-attachments/assets/e7c74837-04e5-4901-ac34-d97f6dc2cb88)
 
